@@ -1,0 +1,45 @@
+2020-08-01 10:41:04,615  INFO [main] TestBase:20 - initializing config properties file
+2020-08-01 10:41:04,628  INFO [main] TestBase:26 - initializied config properties file
+2020-08-01 10:41:04,778  INFO [main] TestBase:18 - starting before suite
+2020-08-01 10:41:04,780  INFO [main] TestBase:19 - calling initialization method from super class
+2020-08-01 10:41:04,780  INFO [main] TestBase:45 - opening a browser
+2020-08-01 10:41:04,781  INFO [main] TestBase:47 - initializing chrome browser
+2020-08-01 10:41:11,966  INFO [main] TestBase:49 - browser launched
+2020-08-01 10:41:11,973  INFO [main] TestBase:50 - launching offline website
+2020-08-01 10:41:11,973  INFO [main] TestBase:35 - reading a property from config.properties file
+2020-08-01 10:41:14,899  INFO [main] TestBase:52 - maximising a browser
+2020-08-01 10:41:16,174  INFO [main] TestBase:25 - enetring username
+2020-08-01 10:41:16,241  INFO [main] TestBase:35 - reading a property from config.properties file
+2020-08-01 10:41:16,525  INFO [main] TestBase:27 - entering password
+2020-08-01 10:41:16,553  INFO [main] TestBase:35 - reading a property from config.properties file
+2020-08-01 10:41:16,765  INFO [main] TestBase:29 - clicking a login button
+2020-08-01 10:46:24,314  INFO [main] TestBase:20 - initializing config properties file
+2020-08-01 10:46:24,325  INFO [main] TestBase:26 - initializied config properties file
+2020-08-01 10:46:24,483  INFO [main] TestBase:18 - starting before suite
+2020-08-01 10:46:24,483  INFO [main] TestBase:19 - calling initialization method from super class
+2020-08-01 10:46:24,484  INFO [main] TestBase:45 - opening a browser
+2020-08-01 10:46:24,485  INFO [main] TestBase:47 - initializing chrome browser
+2020-08-01 10:46:32,699  INFO [main] TestBase:49 - browser launched
+2020-08-01 10:46:32,700  INFO [main] TestBase:50 - launching offline website
+2020-08-01 10:46:32,700  INFO [main] TestBase:35 - reading a property from config.properties file
+2020-08-01 10:46:34,426  INFO [main] TestBase:52 - maximising a browser
+2020-08-01 10:46:36,034  INFO [main] TestBase:25 - enetring username
+2020-08-01 10:46:36,084  INFO [main] TestBase:35 - reading a property from config.properties file
+2020-08-01 10:46:36,390  INFO [main] TestBase:27 - entering password
+2020-08-01 10:46:36,414  INFO [main] TestBase:35 - reading a property from config.properties file
+2020-08-01 10:46:36,752  INFO [main] TestBase:29 - clicking a login button
+2020-08-01 11:00:17,401  INFO [main] TestBase:19 - initializing config properties file
+2020-08-01 11:00:17,412  INFO [main] TestBase:25 - initializied config properties file
+2020-08-01 11:00:17,590  INFO [main] TestBase:18 - starting before suite
+2020-08-01 11:00:17,591  INFO [main] TestBase:19 - calling initialization method from super class
+2020-08-01 11:00:17,600  INFO [main] TestBase:44 - opening a browser
+2020-08-01 11:00:17,600  INFO [main] TestBase:46 - initializing chrome browser
+2020-08-01 11:00:24,132  INFO [main] TestBase:48 - browser launched
+2020-08-01 11:00:24,133  INFO [main] TestBase:49 - launching offline website
+2020-08-01 11:00:24,134  INFO [main] TestBase:34 - reading a property from config.properties file
+2020-08-01 11:00:27,029  INFO [main] TestBase:51 - maximising a browser
+2020-08-01 11:00:28,528  INFO [main] TestBase:25 - enetring username
+2020-08-01 11:00:28,585  INFO [main] TestBase:34 - reading a property from config.properties file
+2020-08-01 11:00:28,939  INFO [main] TestBase:27 - entering password
+2020-08-01 11:00:28,962  INFO [main] TestBase:34 - reading a property from config.properties file
+2020-08-01 11:00:29,170  INFO [main] TestBase:29 - clicking a login button
