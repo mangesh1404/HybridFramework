@@ -1,21 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="1" ignored="1" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2448" started-at="2020-08-01T04:54:27Z" finished-at="2020-08-01T04:54:30Z">
+  <suite name="Suite" duration-ms="9296" started-at="2020-10-10T06:24:17Z" finished-at="2020-10-10T06:24:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2448" started-at="2020-08-01T04:54:27Z" finished-at="2020-08-01T04:54:30Z">
+    <test name="Test" duration-ms="9296" started-at="2020-10-10T06:24:17Z" finished-at="2020-10-10T06:24:27Z">
       <class name="com.jbk.hybrid.testcases.LoginTest">
-        <test-method status="PASS" signature="loadUrl()[pri:0, instance:com.jbk.hybrid.testcases.LoginTest@4678c730]" name="loadUrl" is-config="true" duration-ms="10021" started-at="2020-08-01T10:24:17Z" finished-at="2020-08-01T10:24:27Z">
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:com.jbk.hybrid.testcases.LoginTest@6d7b4f4c]" name="loadUrl" is-config="true" duration-ms="20590" started-at="2020-10-10T11:53:57Z" finished-at="2020-10-10T11:54:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadUrl -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.jbk.hybrid.testcases.LoginTest@4678c730]" name="login" duration-ms="2401" started-at="2020-08-01T10:24:27Z" finished-at="2020-08-01T10:24:30Z">
+        <test-method status="FAIL" signature="loginUsingExcel()[pri:0, instance:com.jbk.hybrid.testcases.LoginTest@6d7b4f4c]" name="loginUsingExcel" duration-ms="8675" started-at="2020-10-10T11:54:18Z" finished-at="2020-10-10T11:54:26Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+	expected [JavaByKiran | Dashboard] but found [JavaByKiran | Log in],
+	expected [JavaByKiran | Dashboard] but found [JavaByKiran | Log in]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+	expected [JavaByKiran | Dashboard] but found [JavaByKiran | Log in],
+	expected [JavaByKiran | Dashboard] but found [JavaByKiran | Log in]
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43)
+	at com.jbk.hybrid.testcases.LoginTest.loginUsingExcel(LoginTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
+        </test-method> <!-- loginUsingExcel -->
       </class> <!-- com.jbk.hybrid.testcases.LoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

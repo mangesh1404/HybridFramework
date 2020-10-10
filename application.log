@@ -43,3 +43,181 @@
 2020-08-01 11:00:28,939  INFO [main] TestBase:27 - entering password
 2020-08-01 11:00:28,962  INFO [main] TestBase:34 - reading a property from config.properties file
 2020-08-01 11:00:29,170  INFO [main] TestBase:29 - clicking a login button
+2020-10-10 11:27:11,077  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:27:11,099  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:27:11,100  INFO [main] TestBase:23 - starting before suite
+2020-10-10 11:27:11,100  INFO [main] TestBase:24 - calling initialization method from super class
+2020-10-10 11:27:11,100  INFO [main] TestBase:28 - opening a browser
+2020-10-10 11:27:11,104  INFO [main] TestBase:30 - initializing chrome browser
+2020-10-10 11:27:26,924  INFO [main] TestBase:32 - browser launched
+2020-10-10 11:27:26,926  INFO [main] TestBase:33 - launching offline website
+2020-10-10 11:29:17,367  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:29:17,424  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:29:17,424  INFO [main] TestBase:23 - starting before suite
+2020-10-10 11:29:17,426  INFO [main] TestBase:24 - calling initialization method from super class
+2020-10-10 11:29:17,426  INFO [main] TestBase:28 - opening a browser
+2020-10-10 11:29:17,427  INFO [main] TestBase:30 - initializing chrome browser
+2020-10-10 11:29:38,529  INFO [main] TestBase:32 - browser launched
+2020-10-10 11:29:38,530  INFO [main] TestBase:33 - launching offline website
+2020-10-10 11:31:02,548  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:31:02,571  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:31:02,572  INFO [main] TestBase:23 - starting before suite
+2020-10-10 11:31:02,572  INFO [main] TestBase:24 - calling initialization method from super class
+2020-10-10 11:31:02,573  INFO [main] TestBase:28 - opening a browser
+2020-10-10 11:31:02,574  INFO [main] TestBase:30 - initializing chrome browser
+2020-10-10 11:31:22,263  INFO [main] TestBase:32 - browser launched
+2020-10-10 11:31:22,264  INFO [main] TestBase:33 - launching offline website
+2020-10-10 11:32:49,897  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:32:49,932  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:32:49,933  INFO [main] TestBase:23 - starting before suite
+2020-10-10 11:32:49,933  INFO [main] TestBase:24 - calling initialization method from super class
+2020-10-10 11:32:49,934  INFO [main] TestBase:28 - opening a browser
+2020-10-10 11:32:49,934  INFO [main] TestBase:30 - initializing chrome browser
+2020-10-10 11:33:06,572  INFO [main] TestBase:32 - browser launched
+2020-10-10 11:33:06,572  INFO [main] TestBase:33 - launching offline website
+2020-10-10 11:36:40,792  INFO [main] TestBase:23 - starting before suite
+2020-10-10 11:36:40,830  INFO [main] TestBase:24 - calling initialization method from super class
+2020-10-10 11:36:40,835  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:36:40,837  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:36:40,837  INFO [main] TestBase:24 - opening a browser
+2020-10-10 11:36:40,838  INFO [main] TestBase:26 - initializing chrome browser
+2020-10-10 11:36:51,790  INFO [main] TestBase:28 - browser launched
+2020-10-10 11:36:51,791  INFO [main] TestBase:29 - launching offline website
+2020-10-10 11:36:51,801  INFO [main] TestBase:30 - reading a property from config.properties file
+2020-10-10 11:36:55,341  INFO [main] TestBase:31 - maximising a browser
+2020-10-10 11:36:56,898  INFO [main] TestBase:38 - enetring username
+2020-10-10 11:37:00,624  INFO [main] TestBase:52 - entering password
+2020-10-10 11:37:01,093  INFO [main] TestBase:55 - clicking a login button
+2020-10-10 11:38:06,984  INFO [main] TestBase:23 - starting before suite
+2020-10-10 11:38:07,002  INFO [main] TestBase:24 - calling initialization method from super class
+2020-10-10 11:38:07,005  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:38:07,006  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:38:07,006  INFO [main] TestBase:24 - opening a browser
+2020-10-10 11:38:07,009  INFO [main] TestBase:26 - initializing chrome browser
+2020-10-10 11:38:17,205  INFO [main] TestBase:28 - browser launched
+2020-10-10 11:38:17,208  INFO [main] TestBase:29 - launching offline website
+2020-10-10 11:38:17,208  INFO [main] TestBase:30 - reading a property from config.properties file
+2020-10-10 11:38:19,873  INFO [main] TestBase:31 - maximising a browser
+2020-10-10 11:38:21,472  INFO [main] TestBase:38 - enetring username
+2020-10-10 11:38:24,393  INFO [main] TestBase:52 - entering password
+2020-10-10 11:38:24,834  INFO [main] TestBase:55 - clicking a login button
+2020-10-10 11:44:20,518  INFO [main] TestBase:23 - starting before suite
+2020-10-10 11:44:20,590  INFO [main] TestBase:24 - calling initialization method from super class
+2020-10-10 11:44:20,605  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:44:20,606  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:44:20,607  INFO [main] TestBase:24 - opening a browser
+2020-10-10 11:44:20,607  INFO [main] TestBase:26 - initializing chrome browser
+2020-10-10 11:44:35,565  INFO [main] TestBase:28 - browser launched
+2020-10-10 11:44:35,566  INFO [main] TestBase:29 - launching offline website
+2020-10-10 11:44:35,570  INFO [main] TestBase:30 - reading a property from config.properties file
+2020-10-10 11:44:38,659  INFO [main] TestBase:31 - maximising a browser
+2020-10-10 11:44:40,230  INFO [main] TestBase:38 - enetring username
+2020-10-10 11:44:42,111  INFO [main] TestBase:52 - entering password
+2020-10-10 11:44:42,489  INFO [main] TestBase:55 - clicking a login button
+2020-10-10 11:44:47,213  INFO [main] TestBase:52 - entering password
+2020-10-10 11:44:47,569  INFO [main] TestBase:55 - clicking a login button
+2020-10-10 11:46:36,010  INFO [main] TestBase:24 - starting before suite
+2020-10-10 11:46:36,034  INFO [main] TestBase:25 - calling initialization method from super class
+2020-10-10 11:46:36,037  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:46:36,038  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:46:36,038  INFO [main] TestBase:24 - opening a browser
+2020-10-10 11:46:36,039  INFO [main] TestBase:26 - initializing chrome browser
+2020-10-10 11:46:49,362  INFO [main] TestBase:28 - browser launched
+2020-10-10 11:46:49,363  INFO [main] TestBase:29 - launching offline website
+2020-10-10 11:46:49,363  INFO [main] TestBase:30 - reading a property from config.properties file
+2020-10-10 11:46:51,936  INFO [main] TestBase:31 - maximising a browser
+2020-10-10 11:46:53,623  INFO [main] TestBase:39 - enetring username
+2020-10-10 11:46:56,853  INFO [main] TestBase:53 - entering password
+2020-10-10 11:46:57,279  INFO [main] TestBase:56 - clicking a login button
+2020-10-10 11:47:01,091  INFO [main] TestBase:53 - entering password
+2020-10-10 11:47:01,467  INFO [main] TestBase:56 - clicking a login button
+2020-10-10 11:47:02,156  INFO [main] TestBase:53 - entering password
+2020-10-10 11:47:02,518  INFO [main] TestBase:56 - clicking a login button
+2020-10-10 11:48:00,157  INFO [main] TestBase:24 - starting before suite
+2020-10-10 11:48:00,170  INFO [main] TestBase:25 - calling initialization method from super class
+2020-10-10 11:48:00,186  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:48:00,186  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:48:00,188  INFO [main] TestBase:24 - opening a browser
+2020-10-10 11:48:00,189  INFO [main] TestBase:26 - initializing chrome browser
+2020-10-10 11:48:07,856  INFO [main] TestBase:28 - browser launched
+2020-10-10 11:48:07,856  INFO [main] TestBase:29 - launching offline website
+2020-10-10 11:48:07,857  INFO [main] TestBase:30 - reading a property from config.properties file
+2020-10-10 11:48:10,258  INFO [main] TestBase:31 - maximising a browser
+2020-10-10 11:48:11,688  INFO [main] TestBase:39 - enetring username
+2020-10-10 11:48:13,167  INFO [main] TestBase:53 - entering password
+2020-10-10 11:48:13,453  INFO [main] TestBase:56 - clicking a login button
+2020-10-10 11:48:16,590  INFO [main] TestBase:53 - entering password
+2020-10-10 11:48:16,980  INFO [main] TestBase:56 - clicking a login button
+2020-10-10 11:48:17,515  INFO [main] TestBase:53 - entering password
+2020-10-10 11:48:17,898  INFO [main] TestBase:56 - clicking a login button
+2020-10-10 11:49:47,226  INFO [main] TestBase:25 - starting before suite
+2020-10-10 11:49:47,264  INFO [main] TestBase:26 - calling initialization method from super class
+2020-10-10 11:49:47,267  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:49:47,273  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:49:47,273  INFO [main] TestBase:24 - opening a browser
+2020-10-10 11:49:47,276  INFO [main] TestBase:26 - initializing chrome browser
+2020-10-10 11:50:01,459  INFO [main] TestBase:28 - browser launched
+2020-10-10 11:50:01,461  INFO [main] TestBase:29 - launching offline website
+2020-10-10 11:50:01,462  INFO [main] TestBase:30 - reading a property from config.properties file
+2020-10-10 11:50:04,648  INFO [main] TestBase:31 - maximising a browser
+2020-10-10 11:50:06,609  INFO [main] TestBase:50 - testcase is started with name: loginUsingExcel
+2020-10-10 11:50:06,611  INFO [main] TestBase:40 - enetring username
+2020-10-10 11:50:09,882  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:10,106  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:12,792  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:13,043  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:13,531  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:13,847  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:14,032  INFO [main] TestBase:17 - Retrying failed test case for count 0
+2020-10-10 11:50:14,071  INFO [main] TestBase:45 - testcase is skipped with name: loginUsingExcel
+2020-10-10 11:50:14,085  INFO [main] TestBase:50 - testcase is started with name: loginUsingExcel
+2020-10-10 11:50:14,087  INFO [main] TestBase:40 - enetring username
+2020-10-10 11:50:14,603  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:14,923  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:17,143  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:17,423  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:17,958  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:18,262  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:18,447  INFO [main] TestBase:17 - Retrying failed test case for count 1
+2020-10-10 11:50:18,454  INFO [main] TestBase:45 - testcase is skipped with name: loginUsingExcel
+2020-10-10 11:50:18,462  INFO [main] TestBase:50 - testcase is started with name: loginUsingExcel
+2020-10-10 11:50:18,462  INFO [main] TestBase:40 - enetring username
+2020-10-10 11:50:19,066  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:19,415  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:21,163  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:21,486  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:22,076  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:22,354  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:22,585  INFO [main] TestBase:17 - Retrying failed test case for count 2
+2020-10-10 11:50:22,587  INFO [main] TestBase:45 - testcase is skipped with name: loginUsingExcel
+2020-10-10 11:50:22,592  INFO [main] TestBase:50 - testcase is started with name: loginUsingExcel
+2020-10-10 11:50:22,593  INFO [main] TestBase:40 - enetring username
+2020-10-10 11:50:23,164  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:23,500  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:25,594  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:25,924  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:26,456  INFO [main] TestBase:54 - entering password
+2020-10-10 11:50:26,872  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:50:27,010  INFO [main] TestBase:21 - skip Retrying failed test case as max limit reached as 3
+2020-10-10 11:50:27,014  INFO [main] TestBase:33 - testcase is failed with name: loginUsingExcel
+2020-10-10 11:50:27,014  INFO [main] TestBase:34 - capturing a screenshot for failed test case
+2020-10-10 11:53:57,559  INFO [main] TestBase:25 - starting before suite
+2020-10-10 11:53:57,565  INFO [main] TestBase:26 - calling initialization method from super class
+2020-10-10 11:53:57,584  INFO [main] TestBase:13 - initializing config properties file
+2020-10-10 11:53:57,585  INFO [main] TestBase:19 - initializied config properties file
+2020-10-10 11:53:57,586  INFO [main] TestBase:24 - opening a browser
+2020-10-10 11:53:57,591  INFO [main] TestBase:26 - initializing chrome browser
+2020-10-10 11:54:11,302  INFO [main] TestBase:28 - browser launched
+2020-10-10 11:54:11,306  INFO [main] TestBase:29 - launching offline website
+2020-10-10 11:54:11,307  INFO [main] TestBase:30 - reading a property from config.properties file
+2020-10-10 11:54:16,469  INFO [main] TestBase:31 - maximising a browser
+2020-10-10 11:54:18,057  INFO [main] TestBase:50 - testcase is started with name: loginUsingExcel
+2020-10-10 11:54:18,060  INFO [main] TestBase:40 - enetring username
+2020-10-10 11:54:21,441  INFO [main] TestBase:54 - entering password
+2020-10-10 11:54:21,749  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:54:25,148  INFO [main] TestBase:54 - entering password
+2020-10-10 11:54:25,596  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:54:26,151  INFO [main] TestBase:54 - entering password
+2020-10-10 11:54:26,537  INFO [main] TestBase:57 - clicking a login button
+2020-10-10 11:54:26,715  INFO [main] TestBase:33 - testcase is failed with name: loginUsingExcel
+2020-10-10 11:54:26,715  INFO [main] TestBase:34 - capturing a screenshot for failed test case

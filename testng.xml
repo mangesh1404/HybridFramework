@@ -4,7 +4,7 @@
 <listeners>
 <listener class-name="com.listeners.TestListeners"></listener>
 <listener class-name="com.report.ExtentReport"></listener>
-<listener class-name="com.listeners.IAnnotation"></listener>
+<!-- <listener class-name="com.listeners.IAnnotation"></listener> -->
 </listeners>
 	<test name="Test">
 		<classes>

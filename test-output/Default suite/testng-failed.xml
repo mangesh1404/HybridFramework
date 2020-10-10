@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.jbk.hybrid.testcases.TestCasesLoginPage">
+      <class name="com.jbk.hybrid.testcases.LoginTest">
         <methods>
           <include name="loadUrl"/>
-          <include name="test01"/>
+          <include name="loginUsingExcel"/>
         </methods>
-      </class> <!-- com.jbk.hybrid.testcases.TestCasesLoginPage -->
+      </class> <!-- com.jbk.hybrid.testcases.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

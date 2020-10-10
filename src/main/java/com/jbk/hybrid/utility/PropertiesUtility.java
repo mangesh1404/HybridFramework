@@ -7,13 +7,13 @@ import com.jbk.hybrid.testcases.TestBase;
 
 public class PropertiesUtility extends TestBase {
 	FileInputStream fis = null;
-	Properties prop;
+	static Properties prop = null;
 	
 	public PropertiesUtility() {
 		log.info("initializing config properties file");
 		try {
 			
-			fis = new FileInputStream(System.getProperty("user.dir") + "/src/main/resources/" + "/config.properties");
+			fis = new FileInputStream(System.getProperty("user.dir") + "/src/main/resources" + "/config.properties");
 			prop = new Properties();
 			prop.load(fis);
 			log.info("initializied config properties file");

@@ -13,7 +13,7 @@ public class ExcelUtility {
 	// read and write
 	
 	public static String getData(String fileName, String sheetName, int row , int col)throws Exception {
-	
+	String data= null;
 	FileInputStream fis= new FileInputStream(fileName);
 	
 	Workbook wb =WorkbookFactory.create(fis);
@@ -22,11 +22,33 @@ public class ExcelUtility {
 	
 	Cell cell=sh.getRow(row).getCell(col);
 	
-	String data=cell.toString();
+	if(cell.getCellType()==cell.CELL_TYPE_NUMERIC) {	
+		double num= cell.getNumericCellValue();//123456.0
+		data = String.valueOf(num).substring(0, String.valueOf(num).indexOf('.'));//123456
+		return data;
+	}
+	else
+		data=cell.toString();
 	
 	return data;
 	
 	}
+	
+	public static int getRows(String fileName, String sheetName)throws Exception {
+		
+		FileInputStream fis= new FileInputStream(fileName);
+		
+		Workbook wb =WorkbookFactory.create(fis);
+		
+		Sheet sh= wb.getSheet(sheetName);
+		
+		return sh.getPhysicalNumberOfRows();	
+	}
+	
+	
+	
+	
+	
 	
 }
 
